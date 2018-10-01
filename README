@@ -1,4 +1,0 @@
-#test build
-docker build --target=dev -t test-build .
-#prod build
-docker build --target=runtime -t test-build .
